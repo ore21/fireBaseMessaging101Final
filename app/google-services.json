@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "301983829607",
+    "firebase_url": "https://fir-messaging-10a58.firebaseio.com",
+    "project_id": "fir-messaging-10a58",
+    "storage_bucket": "fir-messaging-10a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301983829607:android:aee5553d7506361f4c8ec2",
+        "android_client_info": {
+          "package_name": "com.ebookfrenzy.firebasemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301983829607-gfnmqlg3ir19dibjpbkfbuigt74f035e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtVAjkGztKJ24KF6ohfVjo5zMKo1Z54w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301983829607-gfnmqlg3ir19dibjpbkfbuigt74f035e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
